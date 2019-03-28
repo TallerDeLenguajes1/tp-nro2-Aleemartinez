@@ -1,0 +1,3 @@
+2)f) no puedo ver el archivo porque esta creado en la rama "master" y no en la rama "Opcion_2".
+2)i) El cambio que noto es que me muestra distinto "punto" donde me encuentro al cambiar de una rama a otra.
+2)j) Las ramas estan unidas ahora.
